@@ -4,4 +4,4 @@ Welcome to my Personal Portfolio Git! I have all the project files here, located
 
 You can open up this project in GitHub Pages and by using this link: https://gabriela-707.github.io/Personal_Portfolio/
 
-Clicking on the top navigation links takes the user to each section of this Single Page Application
+Clicking on the top navigation links takes the user to each section of this single page application for easy access and all links for projects and social links are working
